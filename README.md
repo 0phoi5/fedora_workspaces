@@ -11,6 +11,8 @@ The script will convert the .deb file in to .rpm, amend it and install it.
 
 You may get a few warning messages whilst running the script, you can ignore them, they stem from some configuration inside the coverted rpm which is out of my remit. The script should still run fine and install a working version of Amazon Workspaces.
 
+Usage: sudo install.sh
+
 
 
 If you find this useful, please consider supporting me via https://www.buymeacoffee.com/jackcollins
